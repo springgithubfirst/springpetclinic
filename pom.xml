@@ -21,7 +21,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
 
         <!-- Spring -->
-        <!-- For framework compatibility, refer to the Spring Boot Dependencies BOM -->
+        <!-- FOR framework compatibility, refer to the Spring Boot Dependencies BOM -->
         <!-- https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-dependencies/build.gradle -->
         <spring-framework.version>5.3.22</spring-framework.version>
 
